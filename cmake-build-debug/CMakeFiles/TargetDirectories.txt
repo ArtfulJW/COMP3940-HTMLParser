@@ -1,0 +1,3 @@
+D:/BCIT/BCIT-Level-3/COMP-3940/HTML Parser/cmake-build-debug/CMakeFiles/HTML_Parser.dir
+D:/BCIT/BCIT-Level-3/COMP-3940/HTML Parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BCIT/BCIT-Level-3/COMP-3940/HTML Parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
